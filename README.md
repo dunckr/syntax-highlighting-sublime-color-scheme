@@ -5,6 +5,31 @@ Highlight syntax in Sublime Text by modifying your favourite colour scheme.
 
 I would recommend making a copy before proceeding.
 
+Extending Monokai Bright:
+
+![Monokai Bright with JavaScript](http://i.imgur.com/bd4iwyC.png)
+![Monokai Bright with CoffeeScript](http://i.imgur.com/VO6TS8J.png)
+
+# Installation
+
+## Path
+
+* Mac:
+
+        /Users/username/Library/Application\ Support/Sublime\ Text\ 2/Packages/Color\ Scheme\ -\ Default
+
+* Win:
+
+        C:\Users\username\AppData\Roaming\Sublime Text 2\Packages\Color Scheme – Default
+
+* Preferences->Color Scheme
+
+## Tools
+
+* [ScopeAlways](https://github.com/yaworsw/Sublime-ScopeAlways)
+
+* [TMTheme Editor](http://tmtheme-editor.herokuapp.com/)
+
 # Cheat Sheet
 
 ## CoffeeScript
@@ -29,28 +54,3 @@ I would recommend making a copy before proceeding.
 * `meta.delimiter.object.comma.js`
 * `punctuation.terminator.statement.js`
 * `storage.type.js`
-
-# Installation
-
-## Path
-
-* Mac:
-
-        /Users/username/Library/Application\ Support/Sublime\ Text\ 2/Packages/Color\ Scheme\ -\ Default
-
-* Win:
-
-        C:\Users\username\AppData\Roaming\Sublime Text 2\Packages\Color Scheme – Default
-
-* Preferences->Color Scheme
-
-## Example
-Extending Monokai Bright
-
-![Monokai Bright with CoffeeScript](http://i.imgur.com/VO6TS8J.png)
-
-## Tools
-
-* [ScopeAlways](https://github.com/yaworsw/Sublime-ScopeAlways)
-
-* [TMTheme Editor](http://tmtheme-editor.herokuapp.com/)
