@@ -1,11 +1,34 @@
-CoffeeScript Sublime Text Color Scheme
+Syntax Highlighting Sublime Text Color Scheme
 --------------------------------------
 
-Highlight CoffeeScript syntax in Sublime Text by modifying your favourite colour scheme.
-
-Follow the instructions below to add directly to your colour scheme of choice or use the one of the samples.
+Highlight syntax in Sublime Text by modifying your favourite colour scheme.
 
 I would recommend making a copy before proceeding.
+
+# Cheat Sheet
+
+## CoffeeScript
+
+* `string.quoted source`
+* `string.quoted source punctuation`
+* `string constant`
+* `string.regexp`
+* `string variable`
+* `support.variable`
+* `constant.language`
+* `keyword.operator`
+* `entity.name.class, entity.name.type.class`
+* `variable.other`
+* `meta.brace.square`
+
+## JavaScript
+
+* `meta.function.json.js`
+* `storage.type.function.js`
+* `meta.brace.curly.js`
+* `meta.delimiter.object.comma.js`
+* `punctuation.terminator.statement.js`
+* `storage.type.js`
 
 # Installation
 
