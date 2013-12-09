@@ -54,3 +54,8 @@ Extending Monokai Bright:
 * `meta.delimiter.object.comma.js`
 * `punctuation.terminator.statement.js`
 * `storage.type.js`
+
+
+## License
+
+MIT © [Duncan Beaton](http://dunckr.com)
